@@ -1,15 +1,17 @@
 # dystonia_individuation
-% code and data summaries accompanying  'Boundaries of task-specificity: bimanual
-%finger dexterity is reduced in musician’s dystonia'
-% Authors: Anna Sadnicka,Tobias Wiestler, Katherine Butler, Eckart Altenmuller,
-% Mark J Edwards, Naveed Ejaz, Jörn Diedrichsen 
+code and data summaries accompanying  
 
-%% Requires 
-% /data_summaries
-% /functions
+'Boundaries of task-specificity: bimanual finger dexterity is reduced in musician’s dystonia'
 
-%% df1_stats_beh.m 
-% output statistics in methods and results
+Authors: Anna Sadnicka,Tobias Wiestler, Katherine Butler, Eckart Altenmuller,
+Mark J Edwards, Naveed Ejaz, Jörn Diedrichsen 
 
-%% df1_behavioural.m
-% full analysis
+Requires 
+/data_summaries
+/functions
+
+df1_stats_beh.m 
+output statistics in methods and results
+
+df1_behavioural.m
+full analysis
