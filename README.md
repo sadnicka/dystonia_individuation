@@ -8,5 +8,7 @@ Authors: Anna Sadnicka,Tobias Wiestler, Katherine Butler, Eckart Altenmuller, Ma
 Requires 
 /data_summaries
 /functions
+
 df1_stats_beh.m (outputs statistics in methods and results)
+
 df1_behavioural.m (full analysis)
